@@ -1,1 +1,1 @@
-Soluções de alguns problemas do URI
+solutions to some URI problems
